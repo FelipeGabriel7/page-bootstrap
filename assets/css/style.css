@@ -1,0 +1,36 @@
+.img-tamanho {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 60vh;
+}
+
+.cursivo {
+    font-family: cursive;
+    color: rgb(122, 0, 0);
+}
+
+.botao-color {
+    background: rgb(122, 0, 0);
+    color: #fff;
+}
+
+.botao-color:hover {
+    color: rgba(182, 243, 223, 0.836);
+}
+
+.borda-cor {
+    border-color: rgb(122, 0, 0);
+}
+
+.cards-posicao {
+    object-fit: cover;
+    height: 20vh;
+}
+
+.cards-estilo {
+    max-width: 18rem;
+}
+
+.background-cards {
+    background: rgba(223, 223, 223, 0.274);
+}
